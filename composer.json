@@ -1,11 +1,11 @@
 {
-    "name": "namoshek/laravel-redis-sentinel",
+    "name": "languagetooler-gmbh/laravel-redis-sentinel",
     "description": "An extension of Laravels Redis driver which supports connecting to a Redis master through Redis Sentinel.",
     "keywords": [
         "laravel",
         "redis"
     ],
-    "homepage": "https://github.com/Namoshek/laravel-redis-sentinel",
+    "homepage": "https://github.com/languagetooler-gmbh/laravel-redis-sentinel",
     "license": "MIT",
     "authors": [
         {
